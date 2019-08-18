@@ -1,5 +1,13 @@
-# Statistika Tim 1
-Tugas matrikulasi matkul Statistika Informatika
+## Statistika Tim 1
+Tugas Matrikulasi matkul Statistika Informatika
+
+## Nama Anggota Tim 1
+- Rinjang Esa Nurita
+- Jabar
+- Achmad Fadhli Shobirin
+- Lucky Alya Sias
+- Aryan
+- Fadila Setyabudi
 
 ## Daftar Isi
 
