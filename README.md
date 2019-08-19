@@ -11,7 +11,7 @@ Tugas Matrikulasi matkul Statistika Informatika
 
 ## Daftar Isi
 
-1. [Penyajian Data]
+1. [Penyajian Data](Penyajian_Data.ipynb)
 2. [Ukuran Pemusatan Data](Ukuran_Pemusatan_Data.ipynb)
 3. [Implementasi Ukuran Pemusatan Data Menggunakan Python](Implementasi_Ukuran_Pemusatan_Data_Menggunakan_Python.ipynb)
 4. [Ukuran Persebaran Data](Ukuran_Persebaran_Data.ipynb)
